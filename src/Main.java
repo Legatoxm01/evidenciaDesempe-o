@@ -28,5 +28,6 @@ public class Main {
         }else{
             System.out.println(("El credito mas conveninete para usted es B, con una tasa de interes anual correspondiente a: "+ tasaInteresAnualB));
         }
+        System.out.println("Feliz tarde profe!");
     }
 }
